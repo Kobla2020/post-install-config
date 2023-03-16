@@ -91,3 +91,11 @@ Next we are going to configure our "users" or "customers". So far we've done eve
 </p>
 <p>
 Now we finally are going to set our SLA's for our tickets. So currently we are in the agent panel, go inside the admin panel then in the "manage" tab go down to SLA Then click on where it says "add new SLA plan". We're going to add 3 SLA's. The first SLA plan We're going to add is called a "SEV-A". Where it says "Grace Period" type in 1 which stands for 1-hour and lastly where it says schedule, expand it and click on the "24-7" option. Next Create another new SLA plan Called a "SEV-B". Where it says "Grace Period" type in 4 which is 4-hours and where it says schedule, expand it to click on the "24-7" option. Create your last SLA plan called a "SEV-C". Where it says "Grace Period" type in 8 which is 8-hours and where it says schedule, expand it and click on the last option that says "Monday-Friday 8am-5pm with U.S. Holidays" this means that you only work on a SEV-C ticket during business days.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/R4gN71t.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we are going to configure the help topics. To do this, we need to head back to the admin panel and go to "manage" and one of the options should say "Help topics". After clicking on "Help Topics", go to "Add new Help Topic" after doing this, there are 4 help topics we are going to add and they are "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset". Enter them one at a time into the Topic bar you should see after clicking on "Add new Help Topic" and after finishing each one, click on "Add topic" which should be at the bottom. With this we should be ready to do an exercise where we create our own tickets, assign the ticket to one of our agents, and determine whether the ticket is a Sev-A, Sev-B, or Sev-C
