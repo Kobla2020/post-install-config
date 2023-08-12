@@ -37,8 +37,7 @@ Before we dive into osTicket, we need to cleanup some files. So, in your osTicke
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/12jLfoF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Capture (3)](https://github.com/Kobla2020/post-install-config/assets/127445078/7473c5f1-2af8-4819-8352-52726564819b)
 </p>
 <p>
 Now you would sign into osTicket using the credentials you filled in on the previous osTicket page. After filling in the credentials, you will now be redirected to the osTicket Homepage!
