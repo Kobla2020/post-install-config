@@ -45,8 +45,7 @@ Now you would sign into osTicket using the credentials you filled in on the prev
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/soBK4Hy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 185323](https://github.com/Kobla2020/post-install-config/assets/127445078/b08db87d-165e-4bb4-99db-9cdea698150f)
 </p>
 <p>
 The first thing we need to configure in osTicket are the roles. In order to get there, you need to get into the admin panel first. In order to get to the admin panel, there should be a prompt that reads "Admin panel" right next to where it says "welcome". Now you would click on the admin panel and you should see some tabs that read "Dashboard", "Settings", "Manage", "Emails", "Agents". With your cursor, hover over the "Agents" panel and you should see "roles" which should be the third option down. After clicking on roles, click on "Add new role" then when adding your first role, make a role that has control over everything. This role can be named whatever you would like but for now, we will call this role "Supreme Admin". There should be two tabs right below the "Add new role" prompt when you're deciding on the name for your role. Those two tabs should read "Definition" and "Permissions". You just filled out the definition tab with the name you chose for the role that has control over everything now you need to edit the permissions. In order for the role you made to have control over everything, you need to check every single box in the permissions tab. You should also see three new tabs that read "Tickets" "Tasks" and "Knowlegdebase". We already checked every box in "Tickets" so now make sure that every box is checked in the "Tasks" and "Knowlegdebase" tabs and after you finish doing that, click on the "Add role" at the bottom of the page.
