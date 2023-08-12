@@ -90,8 +90,7 @@ Now we finally are going to set our SLA's for our tickets. So currently we are i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/R4gN71t.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-03-16 025837](https://github.com/Kobla2020/post-install-config/assets/127445078/bf9f1b15-af1e-45a1-b676-3474c59ae9e4)
 </p>
 <p>
 Now we are going to configure the help topics. To do this, we need to head back to the admin panel and go to "manage" and one of the options should say "Help topics". After clicking on "Help Topics", go to "Add new Help Topic" after doing this, there are 4 help topics we are going to add and they are "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset". Enter them one at a time into the Topic bar you should see after clicking on "Add new Help Topic" and after finishing each one, click on "Add topic" which should be at the bottom. With this we should be ready to do an exercise where we create our own tickets, assign the ticket to one of our agents, and determine whether the ticket is a Sev-A, Sev-B, or Sev-C
