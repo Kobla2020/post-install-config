@@ -52,8 +52,8 @@ The first thing we need to configure in osTicket are the roles. In order to get 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/62HuNlH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 190704](https://github.com/Kobla2020/post-install-config/assets/127445078/2cb5570e-3cb3-4442-9b8e-a31681a132b6)
+
 </p>
 <p>
 Next, we need to configure the "departments". The steps to get to departments are similar to what we did to get to "roles". So we would go to the Admin panel and go to the "Agents" tab but instead of selecting roles, we are going to select "Departments" which should be all the way at the bottom. So now we would select "add new department" and it should take us to a screen where we enter the department name. You can name the department anything you would like but for now, I will name my Department "System Administrators". After you finish naming your department, scroll to the bottom and click "Create Dept".
