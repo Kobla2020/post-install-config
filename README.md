@@ -30,8 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/QHxj4FL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Annotation 2023-08-11 161616](https://github.com/Kobla2020/post-install-config/assets/127445078/8fad7eba-6959-4a07-a704-320aa7097a10)
 </p>
 <p>
 Before we dive into osTicket, we need to cleanup some files. So, in your osTicket folder (which is located in the Windows (c:) inside of the inetpub/wwwroot folders) go to your "setup" folder and delete it. Then after deleting the setup folder, go to your ost-config.php folder (which is located in your "include" folder near the bottom) and set the permissions back to view only. To do this, you right-click on ost-config, then go to properties and then click on the securities tab at the top and then it should give you two options to either "edit" or "advanced", click on "advanced". Now you should see a box in the middle that it titled "Permission entries" and written in the box should be the permissions that you allowed which was "everyone", double click your permission you made and it should take you back to where you initially made the permission. Instead of having every box checked, uncheck every box except for "read" and "read and execute" then click "ok" and "apply".
