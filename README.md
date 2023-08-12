@@ -75,8 +75,7 @@ Now we have to configure the agents. So in the admin panel, go to the agents tab
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/2jwHR14.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-12 191438](https://github.com/Kobla2020/post-install-config/assets/127445078/dd26f2b7-d452-4f41-a27c-fc33a08292b1)
 </p>
 <p>
 Next we are going to configure our "users" or "customers". So far we've done everything in the "Admin Panel" but in order to add new users, we need to go to the agent panel. So, just like how we initially accessed our admin panel, we need to do the same to access the agent panel. Where you see "welcome" then your name next to it, well, right next to that is that panel that you are not currently on, so if it says "Agent panel" then you are on the "Admin Panel" and vice-versa. Now, once you are on the Agent Panel, Click on the "Users" tab Then go to "Add User" then type in any random email or name you can think of. I used KenKen@user.com and the random name i used is Ken Ken. After filling in those Credentials, Click on "Add user" at the bottom right hand side. Next, create another random user following the steps that you just did.
