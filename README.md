@@ -37,7 +37,7 @@ Before we dive into osTicket, we need to cleanup some files. So, in your osTicke
 </p>
 <br />
 
-![Capture (3)](https://github.com/Kobla2020/post-install-config/assets/127445078/7473c5f1-2af8-4819-8352-52726564819b)
+![Screenshot 2023-08-12 171018](https://github.com/Kobla2020/post-install-config/assets/127445078/23a2905b-7bba-40d4-8ca0-0b50e5dc159b)
 </p>
 <p>
 Now you would sign into osTicket using the credentials you filled in on the previous osTicket page. After filling in the credentials, you will now be redirected to the osTicket Homepage!
